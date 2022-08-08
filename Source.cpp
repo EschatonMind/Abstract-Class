@@ -16,5 +16,5 @@ int main() {
 	animals[0] = &M1;
 	animals[0]->fly();
 
-
+	return 0;
 }
